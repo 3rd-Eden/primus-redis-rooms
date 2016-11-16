@@ -3,13 +3,13 @@
   "version": "0.2.3",
   "description": "Redis-based room system for Primus",
   "dependencies": {
-    "redis": "0.9.x",
-    "redis-sentinel": "0.0.x",
+    "redis": "~2.6.3",
+    "redis-sentinel": "~0.3.3",
     "node-uuid": "~1.4.1"
   },
   "devDependencies": {
-    "primus": "1.5.x",
-    "ws": "0.4.x",
+    "primus": "~6.0.5",
+    "ws": "~1.1.1",
     "assert-called": "~0.1.2"
   },
   "repository": {
